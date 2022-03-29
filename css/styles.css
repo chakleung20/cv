@@ -1,0 +1,154 @@
+body {
+  background-color: #F5F5F5;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+  background-color: #534340;
+  border-style: none;
+  height: 5px;
+  margin: 0 0 0 0;
+}
+
+h1{
+  margin-top: 0;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.first-container {
+  background-color: #79B4B7;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.second-container {
+  background-color: #FEFBF3;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.third-container {
+  background-color: #F8F0DF;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 16px;
+}
+
+.fourth-container {
+  background-color: #FEFBF3;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.fifth-container {
+  background-color: #F8F0DF;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 32px;
+}
+
+.scrum-logo {
+  margin-right: 30px;
+}
+
+.flexport_logo {
+  position: relative;
+  top: 20px;
+  float: left;
+  margin-right: 10px;
+}
+
+.experience-table {
+  display: inline-block;
+}
+
+.h3-current-role {
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.h4-bi {
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.list-bi{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.h4-sql{
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.list-sql{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.h4-process{
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.list-process{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.h4-rfp{
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.list-rfp{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.line-after-experience{
+  position: relative;
+  top: 16px;
+}
+
+.h3-skills{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.h3-education{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.p-degree-title{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.p-univerity{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.p-year{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.list-degree-title{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+footer {
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #F8F0DF;
+}
